@@ -5,6 +5,8 @@
 A simple and clean **Random Quote Generator** built using **HTML, CSS, and JavaScript**.  
 With one click, it displays a random motivational or programming-related quote along with the author.
 
+(https://github.com/saqib783/qoute-gen-js/blob/9fddf3776eaa1ad171247b2e870275e9cfd99fba/Screenshot%20(1092).png)
+
 ---
 
 ## 🚀 Features
